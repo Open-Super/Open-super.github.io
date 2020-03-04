@@ -9,4 +9,4 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-Sitemap: https://blog.minecioc.tk/sitemap.xmlSitemap: https://blog.minecioc.tk/baidusitemap.xml
+Sitemap: https://www.slblog.ga/sitemap.xmlSitemap: https://www.slblog.ga/baidusitemap.xml
