@@ -1,3 +1,3 @@
-// build time:Wed Mar 11 2020 15:01:38 GMT+0800 (GMT+08:00)
+// build time:Wed Mar 11 2020 15:24:40 GMT+0800 (GMT+08:00)
 var gulp=require("gulp");var minifycss=require("gulp-minify-css");var uglify=require("gulp-uglify");var minifyhtml=require("gulp-minify-html");gulp.task("minify-css",function(){return gulp.src("./public/**/*.css").pipe(minifycss()).pipe(gulp.dest("./public"))});gulp.task("minify-html",function(){return gulp.src("./public/**/*.html").pipe(minifyhtml()).pipe(gulp.dest("./public"))});gulp.task("minify-js",function(){return gulp.src(["./public/**/*.js","!./public/lib/blog-encrypt.js"]).pipe(uglify()).pipe(gulp.dest("./public"))});gulp.task("default",gulp.parallel("minify-css","minify-html","minify-js"));
 //rebuild by neat 
