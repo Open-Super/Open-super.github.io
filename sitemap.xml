@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.slblog.ga/friends/index.html</loc>
+    
+    <lastmod>2020-03-13T11:04:15.842Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.slblog.ga/%E5%85%AC%E5%91%8A/index.html</loc>
     
-    <lastmod>2020-03-13T10:17:07.996Z</lastmod>
+    <lastmod>2020-03-13T11:03:49.482Z</lastmod>
     
   </url>
   
@@ -12,13 +19,6 @@
     <loc>https://www.slblog.ga/about/index.html</loc>
     
     <lastmod>2020-03-13T09:22:55.342Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.slblog.ga/friends/index.html</loc>
-    
-    <lastmod>2020-03-13T02:57:08.632Z</lastmod>
     
   </url>
   
