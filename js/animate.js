@@ -1,3 +1,3 @@
-// build time:Wed Apr 01 2020 15:28:44 GMT+0800 (GMT+08:00)
+// build time:Sat Apr 04 2020 08:00:13 GMT+0800 (GMT+08:00)
 $(function(){if(mihoConfig.isHome===true&&document.body.clientWidth>700){var e=["pulse","fadeInRight","flipInX","lightSpeedIn","rotateInUpLeft","slideInUp","zoomIn"],a=e.length,n=e[Math.ceil(Math.random()*a)-1];window.sr=ScrollReveal();sr.reveal("#header-row",{duration:0,afterReveal:function(e){$(e).addClass("animated "+n)}});sr.reveal(".body-wrap > article",{duration:0,afterReveal:function(e){$(e).addClass("animated "+n)}})}});
 //rebuild by neat 
